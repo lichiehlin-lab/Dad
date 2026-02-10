@@ -1,0 +1,7 @@
+{
+  "name": "阿爸的家園 Healthy Nutrition Center",
+  "description": "專業營養健康諮詢中心，提供增肌減脂、腸胃調整、孕期及兒童營養規劃，建立健康生活的新起點。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
